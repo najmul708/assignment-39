@@ -228,9 +228,11 @@ font-size: 20px !important;
     background: rgba(1,1,1,.5);
     padding: 50px 0;
 }
-.blog-left-content{
-    float: left;
-    width: 70%;
+.blog-left-content {
+	float: left;
+	width: 65%;
+	transform: perspective(400px) skew(10deg) rotate(360deg);
+	margin-left: 26px;
 }
 .blog-left-notification{
     float: right;
