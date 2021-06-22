@@ -231,7 +231,6 @@ font-size: 20px !important;
 .blog-left-content{
     float: left;
     width: 70%;
-    transform: perspective(400px) skew(10deg) rotate(360deg);
 }
 .blog-left-notification{
     float: right;
