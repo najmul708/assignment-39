@@ -8,12 +8,16 @@
         box-sizing: border-box;
     }
     .blog-item img {
-	width: 125px;
-}
+        width: 150px;
+        margin: -10px 20px;
+    }
     .blog-left-notification ul li {
         font-size: 20px;
         padding: 5px;
         margin-bottom: 15px;
+    }
+    .blog-item {
+        padding: 40px 0;
     }
 }
 
@@ -342,5 +346,10 @@
     }
     .blog-left-notification ul {
         padding: 0 20px;
+    }
+    .service-item {
+        width: 90%;
+        margin-left: 14px;
+        padding: 20px 60px;
     }
 }
